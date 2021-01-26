@@ -14,3 +14,5 @@ resentation for segmentation tasks.The automatic brain tumor classification is v
 challenging task in large spatial and structural variability of surrounding region of
 brain tumor. The method proposed accuracy 96% on the test data.
 
+https://github.com/sumansanyukta/Brain-tumor-detection-using-ResUNet/issues/1#issue-794228612
+
